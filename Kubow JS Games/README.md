@@ -1,7 +1,7 @@
 # Intro
 
 Welcome to JavaScript Games Beginner Edition.
-Special Thanks and Shoutout to Ania Kubow for the amazing tutorials from YouTube.
+Big Thanks and Shoutout to Ania Kubow for the amazing tutorials from YouTube.
 
 # Games LineUp
 
