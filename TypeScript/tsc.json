@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src"
+  },
+  "exclude": ["node_modules"],
+  "_comment": "from roadmap.sh",
+  "_//_tsc compiler options": "using '--' prefix like this: tsc --target ES5 --module commonjs"
+}
